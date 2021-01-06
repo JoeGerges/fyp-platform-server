@@ -1,0 +1,8 @@
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Client\bin\Debug\netcoreapp3.1\FYPPlatform.Client.deps.json
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Client\bin\Debug\netcoreapp3.1\FYPPlatform.Client.dll
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Client\bin\Debug\netcoreapp3.1\FYPPlatform.Client.pdb
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Client\obj\Debug\netcoreapp3.1\FYPPlatform.Client.AssemblyInfoInputs.cache
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Client\obj\Debug\netcoreapp3.1\FYPPlatform.Client.AssemblyInfo.cs
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Client\obj\Debug\netcoreapp3.1\FYPPlatform.Client.csproj.CoreCompileInputs.cache
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Client\obj\Debug\netcoreapp3.1\FYPPlatform.Client.dll
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Client\obj\Debug\netcoreapp3.1\FYPPlatform.Client.pdb

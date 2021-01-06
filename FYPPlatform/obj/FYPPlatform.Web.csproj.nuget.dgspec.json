@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\FYPPlatform\\FYPPlatform.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\DataContracts\\FYPPlatform.DataContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\DataContracts\\FYPPlatform.DataContracts.csproj",
+        "projectName": "FYPPlatform.DataContracts",
+        "projectPath": "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\DataContracts\\FYPPlatform.DataContracts.csproj",
+        "packagesPath": "C:\\Users\\Joe_g\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\DataContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joe_g\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\FYPPlatform\\FYPPlatform.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\FYPPlatform\\FYPPlatform.Web.csproj",
+        "projectName": "FYPPlatform.Web",
+        "projectPath": "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\FYPPlatform\\FYPPlatform.Web.csproj",
+        "packagesPath": "C:\\Users\\Joe_g\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\FYPPlatform\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joe_g\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\DataContracts\\FYPPlatform.DataContracts.csproj": {
+                "projectPath": "C:\\Users\\Joe_g\\source\\repos\\FYPPlatform\\FYP\\DataContracts\\FYPPlatform.DataContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Azure.DocumentDB.Core": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

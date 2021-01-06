@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataContracts",
+    "\\FYPPlatform",
+    "\\FYPPlatform.Client",
+    "\\FYPPlatform.IntegrationTests",
+    "\\FYPPlatform.Tests",
+    "\\FYPPlatform.Web.DeploymentTests"
+  ],
+  "PreviewInSolutionExplorer": false
+}

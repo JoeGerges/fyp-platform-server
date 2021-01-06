@@ -1,0 +1,8 @@
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Web.IntegrationTests\bin\Debug\netcoreapp3.1\FYPPlatform.Web.IntegrationTests.deps.json
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Web.IntegrationTests\bin\Debug\netcoreapp3.1\FYPPlatform.Web.IntegrationTests.dll
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Web.IntegrationTests\bin\Debug\netcoreapp3.1\FYPPlatform.Web.IntegrationTests.pdb
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Web.IntegrationTests\obj\Debug\netcoreapp3.1\FYPPlatform.Web.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Web.IntegrationTests\obj\Debug\netcoreapp3.1\FYPPlatform.Web.IntegrationTests.AssemblyInfo.cs
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Web.IntegrationTests\obj\Debug\netcoreapp3.1\FYPPlatform.Web.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Web.IntegrationTests\obj\Debug\netcoreapp3.1\FYPPlatform.Web.IntegrationTests.dll
+C:\Users\Joe_g\source\repos\FYPPlatform\FYP\FYPPlatform.Web.IntegrationTests\obj\Debug\netcoreapp3.1\FYPPlatform.Web.IntegrationTests.pdb
